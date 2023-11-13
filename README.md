@@ -95,3 +95,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for `
 **REWIND**
 
 Recall that you learned how to create composite plots in a previous module. If you need a refresher on how to create these plots, review that module. You can also check [Composing Plots](https://holoviz.org/tutorial/Composing_Plots.html). in the hvPlot documentation.
+
+## Credits
+Class notes and activities
+Ask BCS for debugging
